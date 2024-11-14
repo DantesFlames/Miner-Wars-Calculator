@@ -4,7 +4,7 @@ This project is a simple calculator tool designed for fun to help estimate GMT c
 
 ## Disclaimer
 
-This tool is provided "as-is" and should not be considered financial advice. Use it at your own risk. All calculations and results are estimates, and users should make their own informed decisions. The author is not responsible for any financial loss or outcomes resulting from the use of this tool.
+This tool is provided "as-is" and should not be considered financial advice. Use it at your own risk. All calculations and results are estimates, and users should make their own informed decisions. The author is not responsible for any financial loss or outcomes resulting from the use of this software.
 
 ## How to Use
 
