@@ -1,4 +1,4 @@
-# Miner Wars Calculator Calculator
+# Miner Wars Calculator
 
 This project is a simple calculator tool designed for fun to help estimate GMT contributions based on different risk levels. It provides recommended GMT amounts for break-even, high-risk, moderate-risk, and low-risk strategies. The calculator was developed as a project and is intended for personal use only.
 
